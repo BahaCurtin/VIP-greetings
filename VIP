@@ -1,3 +1,4 @@
+$(eval a="$(user)"
 if (a == "BahaCurtin"){"Baha is here!!!"} 
 else if (a == "Lundybri09"){"Hi Lundy you GOAT!"}
 else if (a == "airsicktoast"){"Justin! hi how are you? or is it how hi are you?"}
